@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nK0SvWePg5EuynIZQtAgmJNww01DV1hiMvfp9VkYgWg=",
+  "Source": "Okr.Ocelot.Gateway",
+  "BasePath": "_content/Okr.Ocelot.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

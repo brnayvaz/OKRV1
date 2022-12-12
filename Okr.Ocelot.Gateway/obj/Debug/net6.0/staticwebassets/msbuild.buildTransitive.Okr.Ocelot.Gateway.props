@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Okr.Ocelot.Gateway.props" />
+</Project>

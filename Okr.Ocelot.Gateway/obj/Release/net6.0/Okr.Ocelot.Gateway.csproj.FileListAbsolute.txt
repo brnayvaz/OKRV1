@@ -1,0 +1,94 @@
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\appsettings.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.exe
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.deps.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.runtimeconfig.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\FluentValidation.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Ocelot.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.csproj.AssemblyReference.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.AssemblyInfoInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.AssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.Okr.Ocelot.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.build.Okr.Ocelot.Gateway.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Okr.Ocelot.Gateway.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Okr.Ocelot.Gateway.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\scopedcss\bundle\Okr.Ocelot.Gateway.styles.css
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.csproj.CopyComplete
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\refint\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.genruntimeconfig.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\ref\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\appsettings.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.exe
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.deps.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.runtimeconfig.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Okr.Ocelot.Gateway.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\FluentValidation.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Ocelot.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.csproj.AssemblyReference.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.AssemblyInfoInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.AssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.Okr.Ocelot.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.build.Okr.Ocelot.Gateway.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Okr.Ocelot.Gateway.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Okr.Ocelot.Gateway.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\scopedcss\bundle\Okr.Ocelot.Gateway.styles.css
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.csproj.CopyComplete
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\refint\Okr.Ocelot.Gateway.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\Okr.Ocelot.Gateway.genruntimeconfig.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Ocelot.Gateway\obj\Release\net6.0\ref\Okr.Ocelot.Gateway.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Okr.Ocelot.Gateway.props" />
+</Project>

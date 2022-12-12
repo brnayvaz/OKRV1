@@ -1,0 +1,24 @@
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\bin\Release\net6.0\Okr.Entities.deps.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\bin\Release\net6.0\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\bin\Release\net6.0\Okr.Entities.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.csproj.AssemblyReference.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.AssemblyInfoInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.AssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\refint\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Entities\obj\Release\net6.0\ref\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\bin\Release\net6.0\Okr.Entities.deps.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\bin\Release\net6.0\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\bin\Release\net6.0\Okr.Entities.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.csproj.AssemblyReference.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.AssemblyInfoInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.AssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\refint\Okr.Entities.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\Okr.Entities.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Entities\obj\Release\net6.0\ref\Okr.Entities.dll

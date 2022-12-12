@@ -1,0 +1,82 @@
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\appsettings.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.exe
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.deps.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.runtimeconfig.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\RabbitMQ.Client.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.csproj.AssemblyReference.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.AssemblyInfoInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.AssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.Okr.Service.Bus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.build.Okr.Service.Bus.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Okr.Service.Bus.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Okr.Service.Bus.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\scopedcss\bundle\Okr.Service.Bus.styles.css
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.csproj.CopyComplete
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\refint\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.genruntimeconfig.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\ref\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\appsettings.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.exe
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.deps.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.runtimeconfig.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Okr.Service.Bus.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\RabbitMQ.Client.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.csproj.AssemblyReference.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.AssemblyInfoInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.AssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.Okr.Service.Bus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.build.Okr.Service.Bus.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Okr.Service.Bus.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Okr.Service.Bus.props
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\scopedcss\bundle\Okr.Service.Bus.styles.css
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.csproj.CopyComplete
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\refint\Okr.Service.Bus.dll
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.pdb
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\Okr.Service.Bus.genruntimeconfig.cache
+C:\Users\Burhan.Ayvazoglu\Desktop\EğitimNotlarim\adesso_OKR\Okr2022_2 Project\OKR_V1\Okr.Service.Bus\obj\Release\net6.0\ref\Okr.Service.Bus.dll

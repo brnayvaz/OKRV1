@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Okr.Service.Bus.props" />
+</Project>

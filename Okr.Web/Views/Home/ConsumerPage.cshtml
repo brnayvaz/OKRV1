@@ -1,0 +1,128 @@
+﻿@{
+    ViewBag.Title = "Consumer Page";
+}
+@model Okr.Web.Models.ConsumerModel
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        .bs-example {
+            height: 220px;
+        }
+
+        .centerlook {
+            padding-left: 400px;
+            font-weight: bold;
+            width: 1000px;
+        }
+
+        .error {
+            padding-left: 400px;
+            font-weight: bold;
+            width: 1000px;
+            color: red;
+        }
+
+        .loginbtn {
+            padding-left: 500px;
+        }
+    </style>
+
+</head>
+<body>
+
+    @if (TempData["consumer"] != null)
+    {
+
+            <div class="bs-example" style="border: 2px solid gray; word-wrap: break-word">
+                <table border="1" width="39%">
+                    <tr>
+                        <td width="33%">
+                            Adı
+                        </td>
+                        <td width="33%">
+                            Soyadı
+                        </td>
+                        <td width="34%">
+                            Doğum Tarihi
+                        </td>
+                        <td width="34%">
+                            Telefon Numarası
+                        </td>
+                    </tr>
+                    
+                    @foreach (Okr.Web.Models.UserBusModel k in (List<Okr.Web.Models.UserBusModel>)TempData["consumer"])
+                    {
+                        <tr>
+                            <td width="33%">
+                                @k.Name
+                            </td>
+                            <td width="33%">
+                                @k.Surname
+                            </td>
+                            <td width="34%">
+                                @k.BirthDay
+                            </td>
+                            <td width="34%">
+                                @k.PhoneNumber
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+       
+                }
+                else
+                {
+                using (Html.BeginForm("GetConsumer", "Home", FormMethod.Get))
+                {
+<div class="bs-example" style="border:2px solid gray;height:400px">
+
+    <div class="form-group centerlook">
+        <h1> Publis Message </h1>
+    </div>
+    <div class="form-group centerlook">
+        <label>Queue Name: </label>
+        @Html.EditorFor(model => model.QueueName)*
+        @Html.ValidationMessageFor(model => model.QueueName)
+    </div>
+    <div class="form-group centerlook">
+        <label>Token: </label>
+        @Html.EditorFor(model => model.Token) *
+        @Html.ValidationMessageFor(model => model.Token)
+
+    </div>
+    <div class="form-group error">
+        @if (@ViewBag.Failedcount != null)
+        {
+
+            <label> Failed Attempt count is: @ViewBag.Failedcount</label>
+        }
+
+        @if (@ViewBag.NotValidUser != null)
+        {
+
+            <label> @ViewBag.NotValidUser</label>
+        }
+    </div>
+    <div class="loginbtn">
+
+        <input type="submit" value="Submit" class="btn btn-primary" />
+
+    </div>
+</div>
+                }
+                }
+
+</body>
+</html>
