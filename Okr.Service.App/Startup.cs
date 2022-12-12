@@ -56,6 +56,7 @@ namespace Okr.Service.App
                             {
                                 context.Fail("Unauthorized. Please re-login");
                             }
+
                             return Task.CompletedTask;
                         }
                     };
