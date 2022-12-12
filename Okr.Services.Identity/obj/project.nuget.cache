@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXf5FYeVDYyVn3y7A+Gh7YjpagVjuTGqBEj+KSHYMDwrFVLIYV5utcPP6g56MoPpn7nLQBfp7irsWWg8re97xw==",
+  "dgSpecHash": "DnR9Y4I7YiUNbKD7ZQF6ET4Hm1HKykZWWj19tXyCDjwJD4N+n/iFmPa+2+AjMY+vRtj4PZjiVyr90qNzgGB2gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Services.Identity\\Okr.Services.Identity.csproj",
+  "projectFilePath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Services.Identity\\Okr.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

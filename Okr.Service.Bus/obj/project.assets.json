@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Service.Bus\\Okr.Service.Bus.csproj",
+      "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Service.Bus\\Okr.Service.Bus.csproj",
       "projectName": "Okr.Service.Bus",
-      "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Service.Bus\\Okr.Service.Bus.csproj",
+      "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Service.Bus\\Okr.Service.Bus.csproj",
       "packagesPath": "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Service.Bus\\obj\\",
+      "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Service.Bus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burhan.Ayvazoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",

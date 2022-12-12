@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\Okr.Entities.csproj": {}
+    "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\Okr.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\Okr.Entities.csproj": {
+    "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\Okr.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\Okr.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\Okr.Entities.csproj",
         "projectName": "Okr.Entities",
-        "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\Okr.Entities.csproj",
+        "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\Okr.Entities.csproj",
         "packagesPath": "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burhan.Ayvazoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
