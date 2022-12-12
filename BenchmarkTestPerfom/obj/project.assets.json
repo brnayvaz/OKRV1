@@ -1350,11 +1350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\BenchmarkTestPerfom\\BenchmarkTestPerfom.csproj",
+      "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\BenchmarkTestPerfom\\BenchmarkTestPerfom.csproj",
       "projectName": "BenchmarkTestPerfom",
-      "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\BenchmarkTestPerfom\\BenchmarkTestPerfom.csproj",
+      "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\BenchmarkTestPerfom\\BenchmarkTestPerfom.csproj",
       "packagesPath": "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\BenchmarkTestPerfom\\obj\\",
+      "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\BenchmarkTestPerfom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burhan.Ayvazoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",

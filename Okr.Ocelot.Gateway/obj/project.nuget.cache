@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yTAJ8ZCzTXLOtZuoALXmqMFWvmHDzAPNQ6qbKlta/kiothg8ZEmOB6yZklri+MlytsCly6PJB+WgdUfZE7SqMg==",
+  "dgSpecHash": "q9fuftLbFA8h4guyfkywsh69qj0qyTpsBCji72ore5jFjAmP+Jby9lqHBH/dPfqrYs1NVYgBYqKeGTK3XKAWFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Ocelot.Gateway\\Okr.Ocelot.Gateway.csproj",
+  "projectFilePath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Ocelot.Gateway\\Okr.Ocelot.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",

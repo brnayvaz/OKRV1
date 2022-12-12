@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4iLgPKNBILTP+l4q746EHtDFumP9uaWWI1SGn3Ci4Iqi2PBMxTqF4ZzerpItDWjPmYfYOUSjSVbOEMb0Vbm9A==",
+  "dgSpecHash": "old4nEZsvl6oxcnxLyVeJ+vg/+8UzBBPCcp/Om81hcGxdgyhDfYk0FVAVQ3nALW19Q/V7ZoZSNWwKc3BqMwq9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Service.Bus\\Okr.Service.Bus.csproj",
+  "projectFilePath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Service.Bus\\Okr.Service.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

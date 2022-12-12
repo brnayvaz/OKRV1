@@ -1333,11 +1333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Services.Identity\\Okr.Services.Identity.csproj",
+      "projectUniqueName": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Services.Identity\\Okr.Services.Identity.csproj",
       "projectName": "Okr.Services.Identity",
-      "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Services.Identity\\Okr.Services.Identity.csproj",
+      "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Services.Identity\\Okr.Services.Identity.csproj",
       "packagesPath": "C:\\Users\\Burhan.Ayvazoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Services.Identity\\obj\\",
+      "outputPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Services.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burhan.Ayvazoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1354,8 +1354,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\Okr.Entities.csproj": {
-              "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Desktop\\EğitimNotlarim\\adesso_OKR\\Okr2022_2 Project\\OKR_V1\\Okr.Entities\\Okr.Entities.csproj"
+            "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\Okr.Entities.csproj": {
+              "projectPath": "C:\\Users\\Burhan.Ayvazoglu\\Documents\\GitHub\\OKRV1\\Okr.Entities\\Okr.Entities.csproj"
             }
           }
         }
